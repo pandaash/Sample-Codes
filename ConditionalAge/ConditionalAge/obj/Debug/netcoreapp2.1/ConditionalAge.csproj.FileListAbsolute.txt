@@ -1,0 +1,11 @@
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\bin\Debug\netcoreapp2.1\ConditionalAge.deps.json
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\bin\Debug\netcoreapp2.1\ConditionalAge.runtimeconfig.json
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\bin\Debug\netcoreapp2.1\ConditionalAge.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\bin\Debug\netcoreapp2.1\ConditionalAge.dll
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\bin\Debug\netcoreapp2.1\ConditionalAge.pdb
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\obj\Debug\netcoreapp2.1\ConditionalAge.csprojAssemblyReference.cache
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\obj\Debug\netcoreapp2.1\ConditionalAge.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\obj\Debug\netcoreapp2.1\ConditionalAge.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\obj\Debug\netcoreapp2.1\ConditionalAge.AssemblyInfo.cs
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\obj\Debug\netcoreapp2.1\ConditionalAge.dll
+C:\Users\ashis\source\repos\ConditionalAge\ConditionalAge\obj\Debug\netcoreapp2.1\ConditionalAge.pdb

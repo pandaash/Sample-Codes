@@ -1,0 +1,11 @@
+C:\Users\ashis\source\repos\Identify\Identify\bin\Debug\netcoreapp2.1\Identify.deps.json
+C:\Users\ashis\source\repos\Identify\Identify\bin\Debug\netcoreapp2.1\Identify.runtimeconfig.json
+C:\Users\ashis\source\repos\Identify\Identify\bin\Debug\netcoreapp2.1\Identify.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\Identify\Identify\bin\Debug\netcoreapp2.1\Identify.dll
+C:\Users\ashis\source\repos\Identify\Identify\bin\Debug\netcoreapp2.1\Identify.pdb
+C:\Users\ashis\source\repos\Identify\Identify\obj\Debug\netcoreapp2.1\Identify.csprojAssemblyReference.cache
+C:\Users\ashis\source\repos\Identify\Identify\obj\Debug\netcoreapp2.1\Identify.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\Identify\Identify\obj\Debug\netcoreapp2.1\Identify.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\Identify\Identify\obj\Debug\netcoreapp2.1\Identify.AssemblyInfo.cs
+C:\Users\ashis\source\repos\Identify\Identify\obj\Debug\netcoreapp2.1\Identify.dll
+C:\Users\ashis\source\repos\Identify\Identify\obj\Debug\netcoreapp2.1\Identify.pdb

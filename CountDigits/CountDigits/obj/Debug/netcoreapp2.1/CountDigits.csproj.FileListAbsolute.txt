@@ -1,0 +1,10 @@
+C:\Users\ashis\source\repos\CountDigits\CountDigits\bin\Debug\netcoreapp2.1\CountDigits.deps.json
+C:\Users\ashis\source\repos\CountDigits\CountDigits\bin\Debug\netcoreapp2.1\CountDigits.runtimeconfig.json
+C:\Users\ashis\source\repos\CountDigits\CountDigits\bin\Debug\netcoreapp2.1\CountDigits.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\CountDigits\CountDigits\bin\Debug\netcoreapp2.1\CountDigits.dll
+C:\Users\ashis\source\repos\CountDigits\CountDigits\bin\Debug\netcoreapp2.1\CountDigits.pdb
+C:\Users\ashis\source\repos\CountDigits\CountDigits\obj\Debug\netcoreapp2.1\CountDigits.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\CountDigits\CountDigits\obj\Debug\netcoreapp2.1\CountDigits.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\CountDigits\CountDigits\obj\Debug\netcoreapp2.1\CountDigits.AssemblyInfo.cs
+C:\Users\ashis\source\repos\CountDigits\CountDigits\obj\Debug\netcoreapp2.1\CountDigits.dll
+C:\Users\ashis\source\repos\CountDigits\CountDigits\obj\Debug\netcoreapp2.1\CountDigits.pdb

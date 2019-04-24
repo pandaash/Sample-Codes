@@ -1,0 +1,11 @@
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.deps.json
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.runtimeconfig.json
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.dll
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.pdb
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.AssemblyInfo.cs
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.dll
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.pdb
+C:\Users\ashis\source\repos\SimpleInterest\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.csprojAssemblyReference.cache
