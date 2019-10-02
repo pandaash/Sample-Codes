@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashis\\source\\repos\\ConditionalAge\\ConditionalAge\\ConditionalAge.csproj",
+      "projectUniqueName": "H:\\Sample-Codes\\ConditionalAge\\ConditionalAge\\ConditionalAge.csproj",
       "projectName": "ConditionalAge",
-      "projectPath": "C:\\Users\\ashis\\source\\repos\\ConditionalAge\\ConditionalAge\\ConditionalAge.csproj",
+      "projectPath": "H:\\Sample-Codes\\ConditionalAge\\ConditionalAge\\ConditionalAge.csproj",
       "packagesPath": "C:\\Users\\ashis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashis\\source\\repos\\ConditionalAge\\ConditionalAge\\obj\\",
+      "outputPath": "H:\\Sample-Codes\\ConditionalAge\\ConditionalAge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
