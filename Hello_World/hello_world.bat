@@ -1,0 +1,1 @@
+echo "Hello World. I'm executing from the git repo!"
